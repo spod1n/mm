@@ -1,0 +1,17 @@
+# Project files
+config.ini
+
+# Project folders
+database/
+tmp/
+
+
+# Python
+__pycache__/
+__init__.py
+
+# Environments
+.venv/
+
+# PyCharm
+.idea/
